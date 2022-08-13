@@ -1,4 +1,5 @@
 ********************** Scrapy **********************
+
 Test scrap in quotes.toscrape.com:
 1. Install all the requirements from "requirements.txt"
 2. Run the spider command: scrapy crawl authors
